@@ -9,7 +9,7 @@ Some steps involved in EDA
            The first step is to import the necessary Python libraries for data analysis. These libraries may include pandas, numpy, matplotlib, and seaborn.
 2. Reading Dataset:
       Read the dataset into a pandas DataFrame. This will allow you to easily manipulate and analyze the data.
-3.Data Reduction:
+3. Data Reduction:
      If the dataset is large, you may need to reduce the size of the data before performing EDA. This can be done by sampling the data or using dimensionality reduction techniques.
-4.Impute Missing values:
+4. Impute Missing values:
      If there are missing values in the data, you may need to impute them. This can be done using a variety of methods, such as mean imputation or median imputation. 
