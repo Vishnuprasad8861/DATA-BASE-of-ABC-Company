@@ -15,6 +15,7 @@ Data Preprocess:
      If there are missing values in the data, you may need to impute them. This can be done using a variety of methods, such as mean imputation or median imputation.
 
 Data Cleaning:
+
 5. Removing missing values: 
         Missing values can be removed by either dropping the rows or columns with missing values, or by imputing the missing values with a reasonable estimate.
 6. Handling duplicate values:
