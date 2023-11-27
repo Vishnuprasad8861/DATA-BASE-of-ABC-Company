@@ -24,3 +24,14 @@ Data Cleaning:
         Data types can be corrected by converting the data to the appropriate type, such as converting strings to numbers or numbers to strings.
 8.Formatting data: 
         Data can be formatted by converting the data to a consistent format, such as converting all dates to the same format or all numbers to the same format.
+
+EDA Exploratory Data Analysis:
+  Now you can start performing EDA. This may involve calculating descriptive statistics, visualizing the data, and identifying relationships between variables.
+
+Statistics Summary:
+ Calculate descriptive statistics for each variable in the dataset. This will give you a basic understanding of the data.
+
+EDA Univariate Analysis:
+   Univariate analysis is the process of analyzing a single variable at a time. This may involve plotting histograms, box plots, and density plots.
+Conclusion:
+   Once you have completed EDA, you will have a better understanding of the data. This will help you to build a more accurate machine learning model.
